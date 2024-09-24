@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "\uB2EC\uD33D\uC774",
+    "Damage": 1,
+    "AttackCount": 1,
+    "Health": 10
+  },
+  {
+    "Name": "\uBC84\uC12F\uAD34\uBB3C",
+    "Damage": 2,
+    "AttackCount": 1,
+    "Health": 10
+  },
+  {
+    "Name": "\uBC15\uC950",
+    "Damage": 1,
+    "AttackCount": 2,
+    "Health": 20
+  },
+  {
+    "Name": "\uBE68\uAC04\uBC84\uC12F",
+    "Damage": 2,
+    "AttackCount": 2,
+    "Health": 30
+  },
+  {
+    "Name": "\uCD08\uBCF4\uD574\uC801",
+    "Damage": 2,
+    "AttackCount": 3,
+    "Health": 40
+  },
+  {
+    "Name": "\uBB38\uC5B4\uAD34\uBB3C",
+    "Damage": 5,
+    "AttackCount": 1,
+    "Health": 45
+  },
+  {
+    "Name": "\uAC11\uD310\uC0AC\uC218",
+    "Damage": 4,
+    "AttackCount": 2,
+    "Health": 50
+  },
+  {
+    "Name": "\uD574\uC801\uC120\uC7A5",
+    "Damage": 10,
+    "AttackCount": 1,
+    "Health": 80
+  },
+  {
+    "Name": "\uBC18\uB780\uAD70",
+    "Damage": 11,
+    "AttackCount": 1,
+    "Health": 100
+  },
+  {
+    "Name": "\uBC18\uB780\uAD70 \uB9C8\uBC95\uC0AC",
+    "Damage": 15,
+    "AttackCount": 2,
+    "Health": 50
+  },
+  {
+    "Name": "\uBC18\uB780\uAD70 \uAD81\uC218",
+    "Damage": 13,
+    "AttackCount": 3,
+    "Health": 40
+  },
+  {
+    "Name": "\uBC18\uB780\uAD70 \uB300\uC7A5",
+    "Damage": 15,
+    "AttackCount": 1,
+    "Health": 400
+  },
+  {
+    "Name": "\uB0A0\uAC1C\uBCF5\uC5B4",
+    "Damage": 18,
+    "AttackCount": 1,
+    "Health": 120
+  },
+  {
+    "Name": "\uC720\uB2C8\uCF58",
+    "Damage": 20,
+    "AttackCount": 1,
+    "Health": 200
+  },
+  {
+    "Name": "\uCC9C\uB465 \uB3C4\uAE68\uBE44",
+    "Damage": 22,
+    "AttackCount": 1,
+    "Health": 500
+  },
+  {
+    "Name": "\uCCAD\uB8E1",
+    "Damage": 22,
+    "AttackCount": 1,
+    "Health": 1000
+  },
+  {
+    "Name": "\uACE0\uBAA9 \uAE30\uC0AC",
+    "Damage": 24,
+    "AttackCount": 1,
+    "Health": 300
+  },
+  {
+    "Name": "\uC6C0\uC9C1\uC774\uB294 \uC11D\uACE0\uC0C1",
+    "Damage": 28,
+    "AttackCount": 1,
+    "Health": 800
+  },
+  {
+    "Name": "\uC2E0\uC131\uD55C \uC218\uD638\uC790",
+    "Damage": 30,
+    "AttackCount": 1,
+    "Health": 200
+  },
+  {
+    "Name": "\uC61B \uC2E0\uC758 \uD615\uC0C1",
+    "Damage": 30,
+    "AttackCount": 1,
+    "Health": 2000
+  },
+  {
+    "Name": "\uC880\uBE44 \uBC84\uC12F",
+    "Damage": 32,
+    "AttackCount": 1,
+    "Health": 700
+  },
+  {
+    "Name": "\uB4DC\uB808\uC774\uD06C",
+    "Damage": 35,
+    "AttackCount": 1,
+    "Health": 800
+  },
+  {
+    "Name": "\uBBF8\uB178\uD0C0\uC6B0\uB974\uC2A4",
+    "Damage": 39,
+    "AttackCount": 1,
+    "Health": 1000
+  },
+  {
+    "Name": "\uBC1C\uB85D",
+    "Damage": 40,
+    "AttackCount": 1,
+    "Health": 5000
+  }
+]

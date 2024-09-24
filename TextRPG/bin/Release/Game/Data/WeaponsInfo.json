@@ -1,0 +1,102 @@
+[
+  {
+    "Name": "\uBABD\uB465\uC774",
+    "Damage": 1,
+    "Value": 100
+  },
+  {
+    "Name": "\uB2E8\uB3C4",
+    "Damage": 2,
+    "Value": 300
+  },
+  {
+    "Name": "\uBAA9\uAC80",
+    "Damage": 4,
+    "Value": 1000
+  },
+  {
+    "Name": "\uC0AC\uB0E5\uC6A9 \uD65C",
+    "Damage": 5,
+    "Value": 2000
+  },
+  {
+    "Name": "\uAC15\uCCA0\uAC80",
+    "Damage": 8,
+    "Value": 4000
+  },
+  {
+    "Name": "\uAC15\uCCA0 \uC2A4\uD53C\uC5B4",
+    "Damage": 10,
+    "Value": 8000
+  },
+  {
+    "Name": "\uD654\uC2B9\uCD1D",
+    "Damage": 15,
+    "Value": 10000
+  },
+  {
+    "Name": "\uD569\uAE08 \uB300\uAC80",
+    "Damage": 20,
+    "Value": 12000
+  },
+  {
+    "Name": "\uC720\uB839\uAC80",
+    "Damage": 25,
+    "Value": 20000
+  },
+  {
+    "Name": "\uB0C9\uB3D9\uCC38\uCE58",
+    "Damage": 26,
+    "Value": 22000
+  },
+  {
+    "Name": "\uD654\uC5FC\uC758 \uCE74\uD0C0\uB098",
+    "Damage": 28,
+    "Value": 28000
+  },
+  {
+    "Name": "\uBD89\uC740 \uCC44\uCC0D",
+    "Damage": 30,
+    "Value": 40000
+  },
+  {
+    "Name": "\uBABD\uD0A4 \uC2A4\uD328\uB108",
+    "Damage": 32,
+    "Value": 45000
+  },
+  {
+    "Name": "\uC790\uCFF0\uC758 \uD314",
+    "Damage": 34,
+    "Value": 50000
+  },
+  {
+    "Name": "\uB1CC\uC804",
+    "Damage": 36,
+    "Value": 60000
+  },
+  {
+    "Name": "\uC77C\uBE44",
+    "Damage": 40,
+    "Value": 80000
+  },
+  {
+    "Name": "\uC81C\uC6B0\uC2A4\uC758 \uBC88\uAC1C",
+    "Damage": 50,
+    "Value": 200000
+  },
+  {
+    "Name": "\uBFC5\uB9DD\uCE58",
+    "Damage": 55,
+    "Value": 250000
+  },
+  {
+    "Name": "\uC61B \uC2E0\uB4E4\uC758 \uB9C9\uB300\uAE30",
+    "Damage": 62,
+    "Value": 400000
+  },
+  {
+    "Name": "\uAC08 \uB9C8\uB77C\uC988",
+    "Damage": 80,
+    "Value": 800000
+  }
+]

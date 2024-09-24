@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Developments\\Git\\TextRPG\\TextGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{984DBBA7-7543-4D62-B0F2-5079D75797A9}|TextRPG\\TextRPG.csproj|c:\\developments\\git\\textrpg\\textgame\\textrpg\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984DBBA7-7543-4D62-B0F2-5079D75797A9}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB9A9B4-4726-452B-A957-7F46AD629116}|ItemEditor\\GameEditor.csproj|c:\\developments\\git\\textrpg\\textgame\\itemeditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB9A9B4-4726-452B-A957-7F46AD629116}|ItemEditor\\GameEditor.csproj|solutionrelative:itemeditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984DBBA7-7543-4D62-B0F2-5079D75797A9}|TextRPG\\TextRPG.csproj|c:\\developments\\git\\textrpg\\textgame\\textrpg\\object\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984DBBA7-7543-4D62-B0F2-5079D75797A9}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\object\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984DBBA7-7543-4D62-B0F2-5079D75797A9}|TextRPG\\TextRPG.csproj|c:\\developments\\git\\textrpg\\textgame\\textrpg\\object\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984DBBA7-7543-4D62-B0F2-5079D75797A9}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\object\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984DBBA7-7543-4D62-B0F2-5079D75797A9}|TextRPG\\TextRPG.csproj|c:\\developments\\git\\textrpg\\textgame\\textrpg\\manager\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984DBBA7-7543-4D62-B0F2-5079D75797A9}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\manager\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Developments\\Git\\TextRPG\\TextGame\\TextRPG\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "TextRPG\\Manager\\GameManager.cs",
+              "ToolTip": "C:\\Developments\\Git\\TextRPG\\TextGame\\TextRPG\\Manager\\GameManager.cs",
+              "RelativeToolTip": "TextRPG\\Manager\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:03:17.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Developments\\Git\\TextRPG\\TextGame\\ItemEditor\\Program.cs",
+              "RelativeDocumentMoniker": "ItemEditor\\Program.cs",
+              "ToolTip": "C:\\Developments\\Git\\TextRPG\\TextGame\\ItemEditor\\Program.cs",
+              "RelativeToolTip": "ItemEditor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:01:23.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Developments\\Git\\TextRPG\\TextGame\\TextRPG\\Manager\\FileManager.cs",
+              "RelativeDocumentMoniker": "TextRPG\\Manager\\FileManager.cs",
+              "ToolTip": "C:\\Developments\\Git\\TextRPG\\TextGame\\TextRPG\\Manager\\FileManager.cs",
+              "RelativeToolTip": "TextRPG\\Manager\\FileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwv6EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:59:59.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Developments\\Git\\TextRPG\\TextGame\\TextRPG\\Object\\Item.cs",
+              "RelativeDocumentMoniker": "TextRPG\\Object\\Item.cs",
+              "ToolTip": "C:\\Developments\\Git\\TextRPG\\TextGame\\TextRPG\\Object\\Item.cs",
+              "RelativeToolTip": "TextRPG\\Object\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:58:33.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Developments\\Git\\TextRPG\\TextGame\\TextRPG\\Object\\Player.cs",
+              "RelativeDocumentMoniker": "TextRPG\\Object\\Player.cs",
+              "ToolTip": "C:\\Developments\\Git\\TextRPG\\TextGame\\TextRPG\\Object\\Player.cs",
+              "RelativeToolTip": "TextRPG\\Object\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:57:58.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

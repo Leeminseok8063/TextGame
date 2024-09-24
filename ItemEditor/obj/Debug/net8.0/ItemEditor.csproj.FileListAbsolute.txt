@@ -1,0 +1,14 @@
+C:\Developments\TextRPG\ItemEditor\bin\Debug\net8.0\ItemEditor.exe
+C:\Developments\TextRPG\ItemEditor\bin\Debug\net8.0\ItemEditor.deps.json
+C:\Developments\TextRPG\ItemEditor\bin\Debug\net8.0\ItemEditor.runtimeconfig.json
+C:\Developments\TextRPG\ItemEditor\bin\Debug\net8.0\ItemEditor.dll
+C:\Developments\TextRPG\ItemEditor\bin\Debug\net8.0\ItemEditor.pdb
+C:\Developments\TextRPG\ItemEditor\obj\Debug\net8.0\ItemEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developments\TextRPG\ItemEditor\obj\Debug\net8.0\ItemEditor.AssemblyInfoInputs.cache
+C:\Developments\TextRPG\ItemEditor\obj\Debug\net8.0\ItemEditor.AssemblyInfo.cs
+C:\Developments\TextRPG\ItemEditor\obj\Debug\net8.0\ItemEditor.csproj.CoreCompileInputs.cache
+C:\Developments\TextRPG\ItemEditor\obj\Debug\net8.0\ItemEditor.dll
+C:\Developments\TextRPG\ItemEditor\obj\Debug\net8.0\refint\ItemEditor.dll
+C:\Developments\TextRPG\ItemEditor\obj\Debug\net8.0\ItemEditor.pdb
+C:\Developments\TextRPG\ItemEditor\obj\Debug\net8.0\ItemEditor.genruntimeconfig.cache
+C:\Developments\TextRPG\ItemEditor\obj\Debug\net8.0\ref\ItemEditor.dll

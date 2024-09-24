@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "\uBA38\uB9AC\uB760",
+    "Defence": 1,
+    "Value": 200
+  },
+  {
+    "Name": "\uAC00\uC8FD\uBAA8\uC790",
+    "Defence": 2,
+    "Value": 400
+  },
+  {
+    "Name": "\uD770 \uD2F0\uC154\uCE20",
+    "Defence": 4,
+    "Value": 800
+  },
+  {
+    "Name": "\uAC00\uC8FD\uD29C\uB2C9",
+    "Defence": 5,
+    "Value": 1200
+  },
+  {
+    "Name": "\uAD6C\uB9AC\uC544\uBA38",
+    "Defence": 7,
+    "Value": 3000
+  },
+  {
+    "Name": "\uCCAD\uB3D9\uBA38\uB9AC\uB760",
+    "Defence": 8,
+    "Value": 3500
+  },
+  {
+    "Name": "\uAC15\uCCA0 \uAC11\uC8FC",
+    "Defence": 14,
+    "Value": 10000
+  },
+  {
+    "Name": "\uC5D0\uC5B4\uD31F",
+    "Defence": 15,
+    "Value": 11000
+  },
+  {
+    "Name": "\uD50C\uB808\uC774\uD2B8 \uC544\uBA38",
+    "Defence": 17,
+    "Value": 20000
+  },
+  {
+    "Name": "\uC6A9\uAC00\uC8FD \uAC11\uC637",
+    "Defence": 20,
+    "Value": 30000
+  },
+  {
+    "Name": "\uC720\uB839 \uAC11\uC637",
+    "Defence": 25,
+    "Value": 40000
+  },
+  {
+    "Name": "\uC790\uCFF0\uC758 \uD22C\uAD6C",
+    "Defence": 33,
+    "Value": 80000
+  },
+  {
+    "Name": "\uB8E8\uBE44 \uBC18\uC9C0",
+    "Defence": 45,
+    "Value": 200000
+  }
+]
